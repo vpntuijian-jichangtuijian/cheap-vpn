@@ -1,0 +1,27 @@
+﻿version: "2026-2027"
+updated_at: "2026-09-12"
+providers:
+  - name: "云猫 (Yuncat)"
+    highlight: "官方准入 · 0成本免费试用 · BGP中转专线"
+    trial: true
+    min_price: "月付低至个位数"
+    protocols: ["VLESS", "Trojan", "Shadowsocks"]
+    url: "https://cloud.yuncataff.top/aff/github-com/vpntuijian-jichangtuijian/cheap-vpn/#/register?code=IJOjygWb"
+  - name: "牛逼机场"
+    highlight: "中转+直连 · 3000G超大流量"
+    trial: false
+    min_price: "¥6.9/月 (1000G)"
+    protocols: ["Shadowsocks", "V2Ray"]
+    url: "https://cloud.yuncataff.top/aff/github-com/vpntuijian-jichangtuijian/cheap-vpn/#/register?code=IJOjygWb"
+  - name: "NanoCloud"
+    highlight: "老牌直连 · 注册送50G流量试用"
+    trial: true
+    min_price: "¥1.0/月 (100G)"
+    protocols: ["Shadowsocks"]
+    url: "https://cloud.yuncataff.top/aff/github-com/vpntuijian-jichangtuijian/cheap-vpn/#/register?code=IJOjygWb"
+  - name: "淘气兔"
+    highlight: "IEPL内网专线 · 每日签到送流量"
+    trial: true
+    min_price: "¥7.8/月 (100G)"
+    protocols: ["IEPL", "Shadowsocks"]
+    url: "https://cloud.yuncataff.top/aff/github-com/vpntuijian-jichangtuijian/cheap-vpn/#/register?code=IJOjygWb"
