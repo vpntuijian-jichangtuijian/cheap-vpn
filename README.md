@@ -1,6 +1,6 @@
 ﻿# 🚀 Cheap VPN & Airport Recommendation 2026-2027: Best Budget Scientific Surfing under $1.5/mo (2026-2027 便宜机场推荐与低价科学上网梯子指南)
 
-[![Update: 2026-2027](https://img.shields.io/badge/Update-2026--2027%20Rolling-brightgreen)](https://github.com/vpntuijian-jichangtuijian/cheap-vpn)
+[![Update: 2026-2027](https://img.shields.io/badge/Update-2026--09--14-brightgreen)](https://github.com/vpntuijian-jichangtuijian/cheap-vpn)
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8-blue)](https://cloud.yuncataff.top/aff/github-com/vpntuijian-jichangtuijian/cheap-vpn/#/register?code=IJOjygWb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
